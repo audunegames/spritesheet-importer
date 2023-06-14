@@ -1,0 +1,16 @@
+{
+  "name": "com.audune.spritesheet",
+  "displayName": "Audune Spritesheet",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Unity importer for custom spritesheets defined in CSV format",
+  "documentationUrl": "https://github.com/audunegames/unity-spritesheet",
+  "changelogUrl": "https://github.com/audunegames/unity-spritesheet/commits/v1.0.0",
+  "licensesUrl": "https://www.gnu.org/licenses/gpl-3.0.html",
+  "license": "GPL-3.0-or-later",
+  "author": {
+    "name": "Audune Games",
+    "email": "support@audune.com",
+    "url": "https://audune.com/"
+  }
+}
