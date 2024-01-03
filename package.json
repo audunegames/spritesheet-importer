@@ -1,11 +1,11 @@
 {
   "name": "com.audune.spritesheet",
-  "displayName": "Audune Spritesheet",
-  "version": "1.0.0",
+  "displayName": "Spritesheet Importer",
+  "version": "1.0.1",
   "unity": "2022.3",
-  "description": "Unity importer for custom spritesheets defined in CSV format",
-  "documentationUrl": "https://github.com/audunegames/unity-spritesheet",
-  "changelogUrl": "https://github.com/audunegames/unity-spritesheet/commits/v1.0.0",
+  "description": "Importer for spritesheets defined in CSV format for Unity 2022 LTS or higher.",
+  "documentationUrl": "https://github.com/audunegames/unity-spritesheet-importer",
+  "changelogUrl": "https://github.com/audunegames/unity-spritesheet-importer/commits/v1.0.1",
   "licensesUrl": "https://www.gnu.org/licenses/gpl-3.0.html",
   "license": "GPL-3.0-or-later",
   "author": {
